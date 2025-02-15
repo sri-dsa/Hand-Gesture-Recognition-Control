@@ -41,8 +41,8 @@ The dataset used for training consists of multiple hand gesture images labeled f
 
 ### Hand Gesture Dataset Samples
 
-![Dataset Sample 1](hand-gestures-in-our-dataset.png)
-![Dataset Sample 2](hand-gestures-dataset-collected-for-training-and-test-dataset.png)
+![Dataset Sample 1](Hand-gestures-in-our-dataset.png)
+![Dataset Sample 2](Hand-gesture-dataset-collected-for-training-and-test-dataset.png)
 
 ### Gesture Classes
 

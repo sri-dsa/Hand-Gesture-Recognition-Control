@@ -29,11 +29,12 @@ The project integrates multiple AI frameworks and technologies, including:
 
 ## Features
 
-- **Real-Time Hand Gesture Recognition** using CNNs and MediaPipe
-- **Gesture-Controlled Drone Simulation** in V-REP
-- **Dataset Collection and Training Pipeline** for customized gestures
-- **Integration with Edge Devices** for efficient deployment
-- **Multi-modal AI Fusion** with future voice integration
+- **Real-Time Hand Gesture Recognition:** Utilizes deep learning models to classify gestures instantly.
+- **AI-Powered Gesture-Controlled Drone Simulation:** Demonstrates gesture-based flight control in V-REP.
+- **Dataset Collection & Custom Gesture Training:** Allows users to train models on their custom gestures.
+- **Seamless Integration with Edge Devices:** Optimized for real-time inference on devices like Raspberry Pi.
+- **Multi-Modal Fusion for AI Interaction:** Future scope includes voice integration for enhanced interaction.
+
 
 ---
 

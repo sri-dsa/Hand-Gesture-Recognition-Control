@@ -105,7 +105,7 @@ This project also includes a simulated drone that can be controlled using recogn
 
 ### Simulation Video
 
-![Drone Simulation](Gesture.mp4)
+![Drone Simulation](Output.gif)
 
 ### Drone Simulation Framework
 

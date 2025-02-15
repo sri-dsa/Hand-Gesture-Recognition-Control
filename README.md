@@ -129,7 +129,7 @@ A continuous hand tracking system allows gesture-based AI interaction.
 
 ## Edge Deployment
 
-This system supports deployment on edge devices such as Raspberry Pi, NVIDIA Jetson Nano, and other embedded systems for real-time low-power inference.
+This system supports deployment on edge devices such as Raspberry Pi or other embedded systems for real-time low-power inference.
 
 ### Edge Deployment Image
 

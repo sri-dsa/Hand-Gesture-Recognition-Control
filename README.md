@@ -3,12 +3,12 @@
 <table>
   <tr>
     <td>
-      <h3>Pose Tracking {INPUT}</h3>
-      <img src="Continuous3DHandPoseTrackingusingMachineLearningonline-video-cutter.com-ezgif.com-video-to-gif-converter.gif" width="50%">
+      <h3>Pose Tracking/INPUT</h3>
+      <img src="Continuous3DHandPoseTrackingusingMachineLearningonline-video-cutter.com-ezgif.com-video-to-gif-converter.gif" width="50%" max-width="800">
     </td>
      <td>
-      <h3>Simulation Video{OUTPUT}</h3>
-      <img src="Output.gif" width="50%">
+      <h3>Simulation Video/OUTPUT</h3>
+      <img src="Output.gif" width="50%" max-width="800">
     </td>
   </tr>
 </table>

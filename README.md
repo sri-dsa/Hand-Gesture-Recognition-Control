@@ -1,5 +1,18 @@
 # Hand Gesture Recognition & Control
 
+<table>
+  <tr>
+    <td>
+      <h3>Pose Tracking {INPUT}</h3>
+      <img src="Continuous3DHandPoseTrackingusingMachineLearningonline-video-cutter.com-ezgif.com-video-to-gif-converter.gif" width="50%">
+    </td>
+     <td>
+      <h3>Simulation Video{OUTPUT}</h3>
+      <img src="Output.gif" width="50%">
+    </td>
+  </tr>
+</table>
+
 ## Overview
 
 Hand Gesture Recognition & Control is a deep learning-based system that enables real-time recognition and interpretation of hand gestures for applications such as gesture-controlled drones, AI-based interaction, and more. This project integrates various machine learning techniques, including CNNs, MediaPipe, YOLO, and LSTMs, to achieve robust gesture recognition and control.

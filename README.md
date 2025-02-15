@@ -91,11 +91,11 @@ This will start real-time gesture recognition using the webcam.
 
 ### Example of Real-Time Hand Gesture Detection
 
-![Real-Time Gesture Detection](Screenshot-2025-02-14-at-22.32.33.png)
+![Real-Time Gesture Detection](Screenshot 2025-02-14 at 22.32.33.png)
 
 ### Hand Gesture Recognition in Action
 
-![Hand Gesture Recognition](10_Figure12-1.png)
+![Hand Gesture Recognition](10-Figure12-1.png)
 
 ---
 
@@ -105,11 +105,11 @@ This project also includes a simulated drone that can be controlled using recogn
 
 ### Simulation Video
 
-![Drone Simulation](Gesture-controlled-drone-simulation.mp4)
+![Drone Simulation](Gesture controlled drone simulation.mp4)
 
 ### Drone Simulation Framework
 
-![Drone Framework](17-Figure023-1.png)
+![Drone Framework](17-Figure23-1.png)
 
 ---
 
@@ -119,11 +119,11 @@ A continuous hand tracking system allows gesture-based AI interaction.
 
 ### Hand Pose Tracking Video
 
-![Pose Tracking](Continuous-3D-Hand-Pose-Tracking-using-Machine-Learning-online-video-cutter.com.mp4)
+![Pose Tracking](Continuous 3D Hand Pose Tracking using Machine Learning (online-video-cutter.com).mp4)
 
 ### Pose Tracking GIF
 
-![Pose Tracking GIF](Continuous3DHandPoseTrackingUsingMachineLearningOnline-video-cutter.com-ezgif.com-video-to-gif-converter.gif)
+![Pose Tracking GIF](Continuous3DHandPoseTrackingusingMachineLearningonline-video-cutter.com-ezgif.com-video-to-gif-converter.gif)
 
 ---
 

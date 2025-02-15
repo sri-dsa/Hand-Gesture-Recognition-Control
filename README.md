@@ -117,9 +117,6 @@ This project also includes a simulated drone that can be controlled using recogn
 
 A continuous hand tracking system allows gesture-based AI interaction.
 
-### Hand Pose Tracking Video
-
-![Pose Tracking](Continuous.mp4)
 
 ### Pose Tracking GIF
 
